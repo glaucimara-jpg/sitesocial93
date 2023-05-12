@@ -1,11 +1,11 @@
 var firebaseConfig = {
-  apiKey: "AIzaSyDWa77nuALK7TPF_BdYj5Qtskc85Z6hqns",
-  authDomain: "vamos-conversar-ca685.firebaseapp.com",
-  databaseURL: "https://vamos-conversar-ca685-default-rtdb.firebaseio.com",
-  projectId: "vamos-conversar-ca685",
-  storageBucket: "vamos-conversar-ca685.appspot.com",
-  messagingSenderId: "330343652019",
-  appId: "1:330343652019:web:d7c0c410717464b0d0eec6"
+  apiKey: "AIzaSyDI5IpFsKVj7Kdj0KMp6Okju1d13tevw_k",
+  authDomain: "conversa-928d8.firebaseapp.com",
+  databaseURL: "https://conversa-928d8-default-rtdb.firebaseio.com",
+  projectId: "conversa-928d8",
+  storageBucket: "conversa-928d8.appspot.com",
+  messagingSenderId: "872961403304",
+  appId: "1:872961403304:web:b51a89d536930e8fe7959d"
 };
   
   
